@@ -2,7 +2,7 @@
 
 ## Student Details
 
-- **Full Name:** `Brandon Maste;`
+- **Full Name:** `Brandon Mastel`
 - **CCID:** `bmastel`
 
 ## References and Resources
